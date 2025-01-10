@@ -19,6 +19,7 @@ Metasploitable is an intentionally vulnerable Linux virtual machine. This VM can
 Make sure you extract the metasploitable file which originally comes in a zip file
 
 
+<img src="Folder/Extract Meta.PNG">
 
 
 
@@ -29,6 +30,13 @@ Make sure you extract the metasploitable file which originally comes in a zip fi
 
 
 Right click and extract all
+
+
+
+
+
+
+
 
 
 
