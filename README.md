@@ -104,13 +104,17 @@ Ensure that your network settings are configured appropriately. It's recommended
 
 
 
+<img src="Folder/network.jpg">
 
 
 
 
 
 
-Add File
+
+
+
+<h2>Add File</h2>
 
 Now add and locate the previously extracted metasploitable file. Make sure the file is vmdk file this is very important if not done properly an error will occur.
 
