@@ -5,6 +5,7 @@
 Metasploitable is an intentionally vulnerable Linux virtual machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing techniques.The first step is to download Metasploitable 2 VM click here.
 
 
+<img src="Folder/Capture.PNG">
 
 
 
@@ -13,10 +14,17 @@ Metasploitable is an intentionally vulnerable Linux virtual machine. This VM can
 
 
 
+<h2>Extract the Metasploitable File</h2>
 
-Extract the Metasploitable File
+Make sure you extract the metasploitable file which originally comes in a zip file
 
-Make sure you extract the metasploitable file initially it’s come in a zip file
+
+
+
+
+
+
+
 
 
 
@@ -27,7 +35,7 @@ Right click and extract all
 
 Open VirtualBox
 
-On your computer launch virtualbox make sure virtualbox has been installed on your computer if you've not, I have created a guide on how to do that click here.We can do this by clicking the New button within the VirtualBox Manager.
+On your computer launch virtualbox make sure virtualbox has been installed on your computer if you've not, I have created a guide on how to do that click here.We can do this by clicking the New button within the VirtualBox Manager. Note I've created a guide on how to downoad and install VM click(https://github.com/Femi3x/Setting-up-a-virtual-home-lab#)
 
 
 
