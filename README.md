@@ -43,7 +43,7 @@ Right click and extract all
 
 <h2>Open VirtualBox</h2>
 
-On your computer launch virtualbox make sure virtualbox has been installed on your computer if you've not, I have created a guide on how to do that click here (https://github.com/Femi3x/Setting-up-a-virtual-home-lab#).We can do this by clicking the New button within the VirtualBox Manager.
+On your computer launch virtualbox make sure virtualbox has been installed on your computer if you've not, I have created a guide on how to do that click here (https://github.com/Femi3x/Setting-up-a-virtual-home-lab#)  We can do this by clicking the New button within the VirtualBox Manager.
 
 
 <img src="Folder/New.jpg">
@@ -58,6 +58,7 @@ On your computer launch virtualbox make sure virtualbox has been installed on yo
 After clicking on new we are going to get a POP up whereby need to create our virtual machine.
 
 
+<img src="Folder/Vm2.PNG">
 
 
 
@@ -68,13 +69,20 @@ After clicking on new we are going to get a POP up whereby need to create our vi
 
 
 
+Note: name can be anything of choice, type should be Linux, subtype should be Linux 2.4 and Version should be Linux 2.4(64-bit). After that click finish.
 
-Note: name choice be anything of choice, type should be Linux, subtype should be Linux 2.4 and Version should be Linux 2.4(64-bit). After that click finish.
 
-
-Memory Size
+<h2>Memory Size</h2>
 
 The recommended memory size is 512MB. Always note that the blue notification should never move past the green meters.
+
+
+
+
+
+
+
+
 
 
 Virtual Hard Disk
