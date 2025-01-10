@@ -90,9 +90,23 @@ The recommended memory size is 512MB. Always note that the blue notification sho
 Now move to storage and choose Existing hard disk note: be careful during this configuration
 
 
+<img src="Folder/Existing HDD.png">
 
-Configure The Network
+
+
+
+
+
+
+
+<h2>Configure The Networe</h2>
 Ensure that your network settings are configured appropriately. It's recommended to use NAT or Host-only network settings to keep the VM isolated from public networks, as Metasploitable should never be exposed to untrusted networks.
+
+
+
+
+
+
 
 
 
