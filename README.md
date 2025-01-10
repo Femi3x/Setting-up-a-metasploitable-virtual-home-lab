@@ -77,6 +77,7 @@ Note: name can be anything of choice, type should be Linux, subtype should be Li
 The recommended memory size is 512MB. Always note that the blue notification should never move past the green meters.
 
 
+<img src="Folder/Allocate memory.png">
 
 
 
@@ -84,8 +85,7 @@ The recommended memory size is 512MB. Always note that the blue notification sho
 
 
 
-
-Virtual Hard Disk
+<h2>Virtual Hard Disk</h2>
 
 Now move to storage and choose Existing hard disk note: be careful during this configuration
 
