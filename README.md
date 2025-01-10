@@ -16,7 +16,7 @@ Metasploitable is an intentionally vulnerable Linux virtual machine. This VM can
 
 <h2>Extract the Metasploitable File</h2>
 
-Make sure you extract the metasploitable file which originally comes in a zip file
+Make sure you extract the metasploitable file which originally comes in a zip file.
 
 
 <img src="Folder/Extract Meta.PNG">
@@ -87,7 +87,7 @@ The recommended memory size is 512MB. Always note that the blue notification sho
 
 <h2>Virtual Hard Disk</h2>
 
-Now move to storage and choose Existing hard disk note: be careful during this configuration
+Now move to storage and choose Existing hard disk note: be careful during this configuration.
 
 
 <img src="Folder/Existing HDD.png">
@@ -119,11 +119,31 @@ Ensure that your network settings are configured appropriately. It's recommended
 Now add and locate the previously extracted metasploitable file. Make sure the file is vmdk file this is very important if not done properly an error will occur.
 
 
-Start and Running Metasploitable
+
+<img src="Folder/step 5.jpg">
+
+
+
+
+
+
+
+
+
+<h2>Start Metasploitable</h2>
 Now go back to the Virtual machine environment and make sure you click on metasploitable after that click on the start interface.
 
 
-Metasploitabel Running
+
+
+
+
+
+
+
+
+
+<h2>Run Metasploitabel</h2>
 
 After clicking on the start option metasploitable will start running and it’s going to ask you for Administrative credentials which by default is.
 Default loggin:msfadmin
