@@ -32,6 +32,7 @@ Make sure you extract the metasploitable file which originally comes in a zip fi
 Right click and extract all
 
 
+<img src="Folder/Extration done.PNG">
 
 
 
@@ -40,8 +41,7 @@ Right click and extract all
 
 
 
-
-Open VirtualBox
+<h2>Open VirtualBox</h2>
 
 On your computer launch virtualbox make sure virtualbox has been installed on your computer if you've not, I have created a guide on how to do that click here.We can do this by clicking the New button within the VirtualBox Manager. Note I've created a guide on how to downoad and install VM click(https://github.com/Femi3x/Setting-up-a-virtual-home-lab#)
 
