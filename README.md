@@ -46,6 +46,16 @@ Right click and extract all
 On your computer launch virtualbox make sure virtualbox has been installed on your computer if you've not, I have created a guide on how to do that click here (https://github.com/Femi3x/Setting-up-a-virtual-home-lab#).We can do this by clicking the New button within the VirtualBox Manager.
 
 
+<img src="Folder/New.jpg">
+
+
+
+
+
+
+
+
+After clicking on new we are going to get a POP up whereby need to create our virtual machine.
 
 
 
@@ -55,7 +65,6 @@ On your computer launch virtualbox make sure virtualbox has been installed on yo
 
 
 
-After clicking on new we are going to get a POP up whereby need to create our virtual machine
 
 
 
