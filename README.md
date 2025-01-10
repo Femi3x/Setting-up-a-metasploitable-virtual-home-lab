@@ -134,7 +134,7 @@ Now add and locate the previously extracted metasploitable file. Make sure the f
 Now go back to the Virtual machine environment and make sure you click on metasploitable after that click on the start interface.
 
 
-
+<img src="Folder/Screenshot (6)_LI.jpg">
 
 
 
