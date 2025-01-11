@@ -2,7 +2,7 @@
 
 <h2>Download And install Metasploitable</h2>
 
-Metasploitable is an intentionally vulnerable Linux virtual machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing techniques.The first step is to download Metasploitable 2 VM click <a href=”https://sourceforge.net/projects/metasploitable/”>Click here</a>
+Metasploitable is an intentionally vulnerable Linux virtual machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing techniques.The first step is to download Metasploitable 2 VM<a href=”https://sourceforge.net/projects/metasploitable/”>Click here</a>
 
 
 <img src="Folder/Capture.PNG">
