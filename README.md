@@ -99,7 +99,7 @@ Now move to storage and choose Existing hard disk note: be careful during this c
 
 
 
-<h2>Configure The Networe</h2>
+<h2>Configure The Network</h2>
 Ensure that your network settings are configured appropriately. It's recommended to use NAT or Host-only network settings to keep the VM isolated from public networks, as Metasploitable should never be exposed to untrusted networks.
 
 
@@ -156,7 +156,7 @@ Default password:msfadmin
 
 
 
-Now your metasploitable vulnerability virtual machine ready for you to practice penetration testing, vulnerability assessment, and exploit development in a safe, controlled environment.
+Now your metasploitable vulnerability virtual machine is ready for you to practice penetration testing, vulnerability assessment, and exploit development in a safe, controlled environment.
 
 
 
